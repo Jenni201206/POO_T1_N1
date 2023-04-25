@@ -1,5 +1,5 @@
-# POO_T1_N1_Resolvidos 
-![ezgif com-crop (1)](https://user-images.githubusercontent.com/125037138/224166045-f6ca9177-da70-4b27-88c9-ba862a437f6d.jpg)
+# POO_T1_N1_Resolvidos
+![ezgif com-crop](https://user-images.githubusercontent.com/125037138/224165063-0c500cd0-c902-426c-987e-c99c45b1a779.jpg)
 
 Primeiro trabalho de POO / Questões resolvidas
 | Questões | Enunciado |
